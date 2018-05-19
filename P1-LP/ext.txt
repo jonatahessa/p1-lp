@@ -1,0 +1,38 @@
+Jonata Hessa Marques de Oliveira
+jonata.hessa@gmail.com
+
+VERDURAS
+* Alface:	R$	3.80	(2.0 UN)
+* Couve:	R$	4.53	(3.0 UN)
+** TOTAL VERDURAS:	R$	21.19
+
+LEGUMES
+* Cenoura:	R$	3.50	(0.8 Kg)
+* Batata:	R$	4.70	(4.5 Kg)
+* Vagem:	R$	2.80	(0.5 Kg)
+** TOTAL LEGUMES:	R$	25.35
+
+CARNES
+* Alcatra:	R$	24.90	(2.0 Kg)
+* Patinho:	R$	21.50	(3.5 Kg)
+** TOTAL CARNES:	R$	125.05
+
+LIMPEZA
+* Veja:	R$	5.70	(2.0 UN)
+* Bombril:	R$	1.80	(3.0 PCT)
+* Limpol:	R$	1.99	(3.0 UN)
+** TOTAL LIMPEZA:	R$	22.77
+
+TOTAL DE ITENS:	10
+
+VALOR TOTAL:	R$	194.36
+
+DESCONTO:	10.50%
+
+VALOR DO DESCONTO:	20.41
+
+VALOR A PAGAR:	173.95
+
+PARCELAS:	6
+
+VALOR DA PARCELA:	28.99
